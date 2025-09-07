@@ -1,6 +1,6 @@
 let video;
 let asciiDiv;
-let density = "Ñ@#W$russel!ganteng9876543210?!abc;:+=-,._ ";
+let density = "russel!ganteng ";
 
 function setup() {
   noCanvas();
